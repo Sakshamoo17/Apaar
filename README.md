@@ -1,7 +1,7 @@
 # Apaar (Personal Website)
 One Page Website.
 
-Personal 
+Pers
 
 # Screenshot
 <img src="a1.png">
